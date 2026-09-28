@@ -1,11 +1,11 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1",
-  "updateMessage": "• 1أول إصدار من التطبيق\n• أذكار + قرآن + أدعية\n• سبحة + مواقيت صلاة",
+  "latestVersionCode": 1,
+  "latestVersionName": "1.0",
+  "updateMessage": "• أول إصدار من التطبيق",
   "downloadUrl": "https://github.com/montaserm/noor-alwahi/releases",
   "updateRequired": false,
   "forceUpdate": false,
-  "messageTitle": "",
-  "message": "",
-  "messageActive": false
+  "messageTitle": "رسالة من المطور",
+  "message": "جزاكم الله خيراً على استخدام التطبيق 🤲",
+  "messageActive": true
 }
